@@ -4,7 +4,7 @@
 
 url: http://tjulinfan.github.io
 title: 森林木
-subtitle: 且行且珍惜
+subtitle: 做人怎么那么难
 author: tjulinfan
 simple_search: https://www.google.com/search
 description:
@@ -19,7 +19,7 @@ date_format: "ordinal"
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email:
+email: tjulinfan@gmail.com
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -77,5 +77,8 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
-disqus_show_comment_count: false
+disqus_short_name: tjulinfanblog
+disqus_show_comment_count: true
+
+# Google Analytics
+google_analytics_tracking_id: UA-50190728-1
