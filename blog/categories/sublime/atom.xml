@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[森林木]]></title>
-  <link href="http://tjulinfan.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: sublime | 森林木]]></title>
+  <link href="http://tjulinfan.github.io/blog/categories/sublime/atom.xml" rel="self"/>
   <link href="http://tjulinfan.github.io/"/>
   <updated>2014-04-21T18:19:17+08:00</updated>
   <id>http://tjulinfan.github.io/</id>
