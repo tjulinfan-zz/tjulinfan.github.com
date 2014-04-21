@@ -11,7 +11,7 @@ footer: true
   	
 >[主页: tjulinfan](http://tjulinfan.github.io)
 
->- [Github](https://github.com/soulmachine)
+>- [Github](https://github.com/tjulinfan)
 
 >- [Google+](https://plus.google.com/100851917055423344580)
 
