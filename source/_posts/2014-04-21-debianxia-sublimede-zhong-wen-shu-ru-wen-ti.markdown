@@ -3,7 +3,7 @@ layout: post
 title: "Debian下sublime的中文输入问题"
 date: 2014-04-21 14:51:02 +0800
 comments: true
-categories: 
+categories: sublime
 ---
 
 这两天搭建基于 Github pages 的博客准备开始在网上打打酱油了，于是我发现——搭环境果然是世界上最蛋疼的事情。。。
