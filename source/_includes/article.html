@@ -14,7 +14,7 @@
 	</div>
 {% else %}
 	<h1 class="title" itemprop="name">{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</h1>
-	<div class="meta">
+	<div>
 		<div class="date">{% include post/date.html %}{{ time }}</div>
 		<div class="tags">{% include post/categories.html %}</div>
 	</div>
