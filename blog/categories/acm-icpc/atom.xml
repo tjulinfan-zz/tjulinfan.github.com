@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[森林木]]></title>
-  <link href="http://tjulinfan.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: ACM-ICPC, | 森林木]]></title>
+  <link href="http://tjulinfan.github.io/blog/categories/acm-icpc/atom.xml" rel="self"/>
   <link href="http://tjulinfan.github.io/"/>
   <updated>2014-04-29T12:25:58+08:00</updated>
   <id>http://tjulinfan.github.io/</id>
@@ -135,90 +135,6 @@
 <h3>总结</h3>
 
 <p>CF很多题都是很巧妙的，感觉自己好弱啊。。。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[瞎吐槽文]]></title>
-    <link href="http://tjulinfan.github.io/blog/2014/04/21/xia-tu-cao-wen/"/>
-    <updated>2014-04-21T22:12:11+08:00</updated>
-    <id>http://tjulinfan.github.io/blog/2014/04/21/xia-tu-cao-wen</id>
-    <content type="html"><![CDATA[<p>好久没有写日志了，感觉可能都不太会说话了。。。</p>
-
-<p>今天美国罗斯霍曼理工师生来我们学院参观，上完体育课之后带着万分的怨念来到俱乐部等待着他们的来临。当然，我是一点压力都没有的——所有的任务都交给了二丹和淫笑，我也就负责尽尽地主之谊，什么发水啦，什么welcome啦，之后就在旁边看着二丹和淫笑介绍俱乐部了，偶尔回答一下问题，但是大部分情况下都是靠别人翻译。于是我今天最大的收获就是 GC 以后要招募一个首席翻译官，顺便吐槽一下我以后去外企怎么活。。。</p>
-
-<p>其实除了英语之外让我最尴尬的就是礼物问题了，中午一起吃饭的时候他们的老师送了每个人一个礼物，之后我只能很匆忙地从 GC 拿了几件带LOGO的T恤回赠他们，只能说，还好还有点库存，不然就呵呵了。以后 GC 还是需要从 Google 多拉点纪念品过来啊！</p>
-
-<p>下午几位美国友人跟我们一起上了刘岩的 Web Service and SOA，其实有点被吓到，即使别人只是来参观的，但是上课时的认真程度还是我们所不及的（那位华裔同学还记笔记呢），纵使我们总是吹嘘自己和别人智商上没有多少差距，但是态度还是决定了一切吧。他们一个学期也就三四门课，每天都有各种各样的作业充实着，也许这才是大学？谈到这个，我就想到最近的生活，也许只有到了找实习找工作的时候大家才会发现自己离社会的要求还有多远，于是各种感叹虚度青春，于是才真正地拿起了每次只是通宵“预习”的书本，于是又有了很多“如果”——如果再让我读一次大学云云。我想，这就是人！自己也在最近才发现经历了大学的磨砺已经没有当初那么多的梦想了，也发现人生果然很艰难。有多艰难只有你面临这种情况的时候才会知道！看了复旦、交大甚至是北大直博的保送研究生招生简章才再次意识到英语真的很重要！！！一个六级的硬性指标让我又碰到了高中保送时的尴尬情况，于是我下定决心，还是多给自己一点时间，研究生在同济一定好好学习！——我跟同济果然是很有缘。。。又有两年半要在嘉定度过了。。。</p>
-
-<p>算了，吐槽了那么多还是回到现实生活中继续骗自己吧，哈哈！P.S. 最近开了个博客准备随便写点东西 有兴趣的同学关注一下啦，也顺便督促一下我！<br />
-地址是： blog.tjulinfan.com</p>
-
-<p>附上一张合照，让我膜拜一下美国顶尖工科学生吧！</p>
-
-<p>
-<img src="http://a2.qpic.cn/psb?/f54e12ea-1210-4e6f-b8ef-3e96bed9b084/hXFUa81kkZ0lDY26gYWSNoZZ9nikbizz57wTRc8MMnU!/b/dOTQTOp*FQAA&bo=VQOAAkAGsAQBAAE!&su=245946737&rf=2-9" alt="与罗斯霍曼理工师生合照" />
-</p>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Debian下sublime的中文输入问题]]></title>
-    <link href="http://tjulinfan.github.io/blog/2014/04/21/debianxia-sublimede-zhong-wen-shu-ru-wen-ti/"/>
-    <updated>2014-04-21T14:51:02+08:00</updated>
-    <id>http://tjulinfan.github.io/blog/2014/04/21/debianxia-sublimede-zhong-wen-shu-ru-wen-ti</id>
-    <content type="html"><![CDATA[<p>这两天搭建基于 Github pages 的博客准备开始在网上打打酱油了，于是我发现——搭环境果然是世界上最蛋疼的事情。。。</p>
-
-<p>当然，本文不是讲搭博客环境的。在我改 Octopress 的配置文件的时候，惊奇地发现 sublime 里居然不能切中文输入法，于是我 Google 了一下，发现 <a href="http://my.oschina.net/Khiyuan/blog/98713">一篇教程</a>，但是原文中最后一步在 Debian 下执行不是很顺利。下面讲一下解决方法吧：</p>
-
-<h4>1. 保存代码到文件sublime_imfix.c</h4>
-
-<pre><code>#include &lt;gtk/gtkimcontext.h&gt;
-
-void gtk_im_context_set_client_window (GtkIMContext *context, GdkWindow *window) {
-    GtkIMContextClass *klass;
-    g_return_if_fail (GTK_IS_IM_CONTEXT (context));
-    klass = GTK_IM_CONTEXT_GET_CLASS (context);
-    if (klass-&gt;set_client_window)
-        klass-&gt;set_client_window (context, window);
-    g_object_set_data(G_OBJECT(context),"window",window);
-
-    if(!GDK_IS_WINDOW (window))
-        return;
-    int width = gdk_window_get_width(window);
-    int height = gdk_window_get_height(window);
-    if(width != 0 &amp;&amp; height !=0)
-        gtk_im_context_focus_in(context);
-} 
-</code></pre>
-
-<h4>2. 编译成共享库</h4>
-
-<pre><code>gcc -shared -o libsublime-imfix.so sublime_imfix.c  `pkg-config --libs --cflags gtk+-2.0` -fPIC
-</code></pre>
-
-<p>这里有可能需要装一下libgtk</p>
-
-<h4>3. 运行</h4>
-
-<pre><code>LD_PRELOAD=./libsublime-imfix.so sublime_text
-</code></pre>
-
-<h4>4. 配置</h4>
-
-<p>由于我用的是 Debian，sublime text 的运行命令为 subl，所以需要更改启动文件，将 libsublime-imfix.so 拷贝到 sublime 所在文件夹（Debian下是 /opt/sublime_text）</p>
-
-<p>在 /usr/bin/subl 文件中,将</p>
-
-<pre><code>BIN=/opt/sublime-text/sublime_text 替换为
-
-export LD_PRELOAD=/opt/sublime-text/libsublime-imfix.so
-exec /opt/sublime-text/sublime_text "$@"
-</code></pre>
-
-<p>再次附上原文网址：
-<a href="http://my.oschina.net/Khiyuan/blog/98713">http://my.oschina.net/Khiyuan/blog/98713</a></p>
 ]]></content>
   </entry>
   
