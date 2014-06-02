@@ -21,5 +21,5 @@ categories: 生活
 附上一张合照，让我膜拜一下美国顶尖工科学生吧！
 
 <p>
-<img src="http://a2.qpic.cn/psb?/f54e12ea-1210-4e6f-b8ef-3e96bed9b084/hXFUa81kkZ0lDY26gYWSNoZZ9nikbizz57wTRc8MMnU!/b/dOTQTOp*FQAA&bo=VQOAAkAGsAQBAAE!&su=245946737&rf=2-9" alt="与罗斯霍曼理工师生合照" />
+<img src="http://blog-tjulinfan-com.qiniudn.com/20140421_%E7%BE%8E%E5%9B%BD%E7%BD%97%E6%96%AF%E9%9C%8D%E6%9B%BC%E7%90%86%E5%B7%A5%E5%8F%82%E8%A7%82GC.jpg" />
 </p>
