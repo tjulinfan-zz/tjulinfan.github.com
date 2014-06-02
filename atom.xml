@@ -4,7 +4,7 @@
   <title><![CDATA[森林木]]></title>
   <link href="http://tjulinfan.github.io/atom.xml" rel="self"/>
   <link href="http://tjulinfan.github.io/"/>
-  <updated>2014-04-29T12:55:38+08:00</updated>
+  <updated>2014-06-02T15:09:09+08:00</updated>
   <id>http://tjulinfan.github.io/</id>
   <author>
     <name><![CDATA[tjulinfan]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[[LeetCode] Single Number]]></title>
+    <link href="http://tjulinfan.github.io/blog/2014/06/02/leetcode-single-number/"/>
+    <updated>2014-06-02T15:01:26+08:00</updated>
+    <id>http://tjulinfan.github.io/blog/2014/06/02/leetcode-single-number</id>
+    <content type="html"><![CDATA[<h3><a href="https://oj.leetcode.com/problems/single-number/">[LeetCode] Single Number</a></h3>
+
+<h4>题意</h4>
+
+<p>在一组数中除了一个数以外（这个数只出现了一次），其他数都出现了两次，请在线性时间内找出这个数。</p>
+
+<h4>解法</h4>
+
+<p>利用异或运算的性质 a xor a = 0，求出这些数的异或和便是那个只出现了一次的数，时间复杂度：O(n)</p>
+
+<h4>代码</h4>
+
+<p><a href="https://github.com/tjulinfan/LeetCode/blob/master/Single%20Number.cpp">见GitHub</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Codeforces Beta Round #5 解题报告]]></title>
